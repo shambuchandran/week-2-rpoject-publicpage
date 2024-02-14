@@ -1,0 +1,31 @@
+#c6c6c6;
+    --style-small-fill: #5bbbfc;
+    --component-button-primary: #003087;
+    --component-button-secondary: #ffd140;
+    --component-button-tertiary: #faf8f5;
+    --component-button-primary-border-color: #003087;
+    --component-inline-button: #0070e0;
+    --component-inline-button-focus-border: #0070e0;
+    --component-inline-button-focus-shadow: rgba(16, 114, 235, .16);
+    --component-inline-play-fill-1: #003087;
+    --component-inline-play-fill-1-hover: #0070e0;
+    --component-inline-play-fill-1-active: #001c64;
+    --component-inline-play-fill-1-focus: #0070e0;
+    --component-inline-play-fill-2: #ffffff;
+    --component-link: #0070e0;
+    --component-hyperlink: #0070e0;
+    --component-hyperlink-decoration: underline;
+    --component-hyperlink-active: #003087;
+    --component-hyperlink-active-decoration: underline;
+    --component-hyperlink-hover: #003087;
+    --component-button-text-primary: #ffffff;
+    --component-button-text-secondary: #003087;
+    --component-button-bg-tertiary: transparent;
+    --component-inline-button-active: transparent;
+    --component-button-text-tertiary: #003087;
+    --component-button-border-tertiary: #003087;
+}
+
+https://www.paypal.com/us/webapps/mpp/home
+
+   
